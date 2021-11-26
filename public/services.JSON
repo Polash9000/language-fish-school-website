@@ -1,0 +1,42 @@
+[
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX6TGc9lnrb_5QsR6mno54HpjErGBaha_ilVqVS9hus_J8bnm-9MzqVis8oxL8RDb5EzM&usqp=CAU",
+        "name": "Spanish Language",
+        "price": 58
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdOgVTaDKNCyFZA3gMeAGgrE8Anbs8420ypd3Pu8Ge0UZy6nH_rrtsQgZdgZFoFYmY74&usqp=CAU",
+        "name": "Arabic Language",
+        "price": 55
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWYR3Ke2oAtH36TQ2uoL93lFg7VpuqCaD_NzIti8dYwYL8MMxtmd_cF2goBghkmxdRXLk&usqp=CAU",
+        "name": "Greek Language",
+        "price": 45
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6iN2fGQxjeLcTIWegitn09G4Y0StGAQ4cXHXdyP3lBGLK_97_5K3E1U_7fB54Ydq_n-k&usqp=CAU",
+        "name": "Italian Language",
+        "price": 35
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7mSOTSGLmsH73r9UXYzGw8UwKAuhDKPERoMGFkS06p2rO1AvsKWiOR17FCa-aWgDLLxk&usqp=CAU",
+        "name": "Asian Language",
+        "price": 30
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRFSCb-bhGejUB4n5awuzLvOZ2IkVWLhaVhhOPiMl_w9Qcq8MgGhCSS3uxBZIQBD--0w&usqp=CAU",
+        "name": "English Language",
+        "price": 60
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzxCY19sEI1ict12QEkM93P88fUedmt4m_Z9nvZE5XF2Y2eFA7n66YQUO-luh7gPoJCw&usqp=CAU",
+        "name": "French Language",
+        "price": 40
+    },
+    {
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxSALzPRrGC6pPsweMpre_bYvbMKJ_qW5MrdlINQu8Okzp0lycs0BnsDpXGcaUfz9J9k&usqp=CAU",
+        "name": "Bengali Language",
+        "price": 50
+    }
+]

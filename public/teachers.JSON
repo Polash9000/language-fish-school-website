@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Mcallister Sarah",
+        "ocupation": "Arabic Teacher",
+        "description": "She is experienced teacher in Arabic language. She teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQCpJSNZJQqmKVTk4GfDNroxAgpVIt8LIcPheOtykpnNRGB60KqlD7H8IK2aA5vPABj6k&usqp=CAU"
+    },
+    {
+        "name": "Strate Hellen",
+        "ocupation": "Greek Teacher",
+        "description": "She is experienced teacher in Greek language. She teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRha8EnnNOFdDxtaoIcz5c14UcACjI_d6nnlUElvUzaYZV8ZVb2_1LBkIrl_sZBkeckN00&usqp=CAU"
+    },
+    {
+        "name": "Rossi Andrew",
+        "ocupation": "Italian Teacher",
+        "description": "She is experienced teacher in Italian language. She teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP439NQEOOLQtzrcfxBFjILyGzaooD63YRXl5Zkgq0I0IrrD0eNtmCNYQd3D-mtG0DlaM&usqp=CAU"
+    },
+    {
+        "name": "stone Hanna",
+        "ocupation": "Asian Teacher",
+        "description": "She is experienced teacher in Asian language. She teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgf15TbnFLSAc-3wEfB9aCPVFPFgtAaQ4-aU-NMqr07G0i8XeESWmpICBKHN9GyMZkUbw&usqp=CAU"
+    },
+    {
+        "name": "Johnson Jack",
+        "ocupation": "English Teacher",
+        "description": "She is experienced teacher in English language. She teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQm97g0gJWFCPtNi982Ybo8CYWeA04rhZlCnHdrzIGhVjx9W3CeYFYPLoaVDSxavWAXQI&usqp=CAU"
+    },
+    {
+        "name": "Spitch Mark",
+        "ocupation": "French Teacher",
+        "description": "He is experienced teacher in French language. He teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNc6in9GRTtelk_t8O7_o0JhDO-i6trGgskoHrnWF7eOhAtq41I6LtnJmlUXiz_W4HcoY&usqp=CAU"
+    },
+    {
+        "name": "Roe Denise",
+        "ocupation": "Spanish Teacher",
+        "description": "He is experienced teacher in Spanish language. He teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPJNZa8AqMITgAXmErbr1Lhr3or2f1K2ZNGdDZr__-6TnLQ0GOp4Qx8QFwClAtsCP64Og&usqp=CAU"
+    },
+    {
+        "name": "Polash Chy",
+        "ocupation": "Bengali Teacher",
+        "description": "He is experienced teacher in Bengali language. He teaches her students very carefully and lovely.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2iW_AcQM2dQi7FEvGoRh6T714bow2W6fLhA&usqp=CAU"
+    }
+]
